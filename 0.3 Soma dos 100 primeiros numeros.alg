@@ -1,10 +1,10 @@
-algoritmo "Soma dos 100 primeiros números naturais"
+algoritmo "Soma dos 100 primeiros nÃºmeros naturais"
 var
 n,c:inteiro
 inicio
 n<-0
 c<-0
-escreval("A soma dos 100 primeiros números naturais: ")
+escreval("A soma dos 100 primeiros nÃºmeros naturais: ")
 enquanto (n<3) faca
  escreval(c)
  n<-n+1
