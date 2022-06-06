@@ -1,4 +1,4 @@
-algoritmo "Soma dos pares de 1 até 500"
+algoritmo "Soma dos pares de 1 atÃ© 500"
 var
 i, soma : inteiro
 inicio
@@ -11,5 +11,4 @@ soma<-0
  i<-i+1
  fimenquanto
 escreva("Soma dos pares = ", soma)
-
 fimalgoritmo
